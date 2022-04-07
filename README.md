@@ -3,8 +3,8 @@
   
   <h3>Projekt,opisujący proces tworzenia modelu ekonometrycznego, badającego wpływ różnych czynników wpływających na długość życia człowieka.<h3>
 
-    ![image](https://user-images.githubusercontent.com/98030977/162331326-5968886d-4fa8-4ba9-9d48-95a3669896b4.png)
-
+ ![image](https://user-images.githubusercontent.com/98030977/162331358-918bcd3c-7787-4a68-af0e-b5eaae3d4b10.png)
+  
 
 <h5>Długość ludzkiego życia od dawna była przedmiotem wielu badaczy. Na przykład badacze, badający szkielety znajdowane w 
 Biskupinie wskazują, że około VIII wieku p.n.e. ludzie dożywali zazwyczaj do 35-tego roku życia3
